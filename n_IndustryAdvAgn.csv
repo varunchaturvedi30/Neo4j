@@ -24,7 +24,7 @@ Diageo,Dentsu
 Barilla,Dentsu
 Nestle,Dentsu
 Unilever,Dentsu
-"Facebook, Inc.",Dentsu
+Facebook,Dentsu
 Nestle,360i
 Barilla,360i
 Coca-Cola,360i
@@ -61,8 +61,8 @@ P&G,Publicis
 Coca-Cola,Publicis
 AT&T,Publicis
 Google,Publicis
-"COTY, Inc.",Publicis
-"Facebook, Inc.",Publicis
+COTY,Publicis
+Facebook,Publicis
 P&G,Omnicom
 AT&T,Omnicom
 Hershey,Omnicom
@@ -82,7 +82,7 @@ Adidas,WPP
 Mondelez,WPP
 Target,WPP
 Nestle,WPP
-"Facebook, Inc.",WPP
+Facebook,WPP
 L'Oreal,WPP
 Walmart,WPP
 Google,WPP
@@ -122,7 +122,7 @@ Adidas,72andSunny
 Nike,IPG
 Nike,J. Walter Thompson
 Coca-Cola,UM
-"Facebook, Inc.",ZenithOptimedia
+Facebook,ZenithOptimedia
 L'Oreal,R/GA
 Mondelez,MediaVest
 Clorox,FCB
@@ -146,7 +146,7 @@ Target,Wieden & Kennedy
 L'Oreal,ZenithOptimedia
 Coca-Cola,Wieden & Kennedy
 Kellogg,Zimmerman
-"Facebook, Inc.",Richards Group
+Facebook,Richards Group
 H&M,UM
 Chobani,OMD
 Energizer,UM
@@ -158,7 +158,7 @@ Walmart,MediaVest
 Henkel AG & Co KGaA,DDB
 Mondelez,Porter Novelli
 Google,Geometry Global
-"Facebook, Inc.",Campbell Ewald
+Facebook,Campbell Ewald
 Hershey,McGarryBowen
 Hershey,UM
 Hershey,OMD
@@ -168,30 +168,30 @@ Nike,Laundry Service
 Kohl's,ZenithOptimedia
 AT&T,Starcom
 McDonalds,Leo Burnett
-"Facebook, Inc.",Geometry Global
-"Facebook, Inc.",Zimmerman
-"Facebook, Inc.",Rapport
-"Facebook, Inc.",Digitas
+Facebook,Geometry Global
+Facebook,Zimmerman
+Facebook,Rapport
+Facebook,Digitas
 Walmart,GSD&M
 Nestle,ZenithOptimedia
 Coca-Cola,Starcom
 Coca-Cola,MSL
-"Facebook, Inc.",Goodby Silverstein & Partners
+Facebook,Goodby Silverstein & Partners
 P&G,72andSunny
 P&G,MDC
 Nike,MindShare
-"Facebook, Inc.",Carat
+Facebook,Carat
 Barilla,OMD
-"Facebook, Inc.",180LA
-"Facebook, Inc.",Venables Bell & Partners
+Facebook,180LA
+Facebook,Venables Bell & Partners
 Barilla,DDB
-"Facebook, Inc.",Gyro
+Facebook,Gyro
 Clorox,OMD
 Nestle,OMD
 Hershey,VML
 Unilever,R/GA
 Panasonic,OMD
-"Facebook, Inc.",22squared
+Facebook,22squared
 Intel,OMD
 Cargill,Carmichael Lynch
 Clorox,UM
@@ -200,20 +200,20 @@ Unilever,Digitas
 Danone,Havas
 Unilever,DDB
 AT&T,MediaVest
-"Facebook, Inc.",Carmichael Lynch
+Facebook,Carmichael Lynch
 Nike,R/GA
 Coca-Cola,DDB
 Diageo,Superunion
-"Facebook, Inc.",R/GA
+Facebook,R/GA
 Walmart,R/GA
 P&G,GroupM
-"Facebook, Inc.",Tribal Worldwide
+Facebook,Tribal Worldwide
 H&M,IPG
 P&G,MediaCom
 Walmart,MDC
 Kellogg,Carat
-"Facebook, Inc.",Mekanism
-"Facebook, Inc.",RPA
+Facebook,Mekanism
+Facebook,RPA
 Danone,GroupM
 Coca-Cola,IPG
 McDonalds,Kantar
@@ -227,8 +227,8 @@ Diageo,Havas
 Danone,Wavemaker
 H&M,MDC
 Nike,BBH
-"Facebook, Inc.",IPG
-"Facebook, Inc.",Doremus
+Facebook,IPG
+Facebook,Doremus
 Unilever,MullenLowe
 Kellogg,Epsilon
 Coca-Cola,Momentum Worldwide
@@ -247,14 +247,14 @@ Google,Merkle
 Danone,Carat
 Unilever,72andSunny
 Mondelez,Saatchi & Saatchi
-"Facebook, Inc.",Weber Shandwick
-"Facebook, Inc.",FCB
+Facebook,Weber Shandwick
+Facebook,FCB
 Diageo,R/GA
 Unilever,Havas
 Adidas,Wunderman
 Unilever,IPG
 Diageo,MDC
-"Facebook, Inc.",Merkle
+Facebook,Merkle
 Unilever,VaynerMedia
 AT&T,FCB
 Nestle,BBH
@@ -275,23 +275,23 @@ P&G,MEC
 Unilever,Carat
 P&G,MediaVest
 Walmart,Havas
-"Facebook, Inc.",Giant Spoon
+Facebook,Giant Spoon
 Target,72andSunny
-"Facebook, Inc.",Essence
+Facebook,Essence
 Adidas,Ketchum
-"Facebook, Inc.",Porter Novelli
+Facebook,Porter Novelli
 Coca-Cola,Havas
 Energizer,MEC
 Nokia,R/GA
-"Facebook, Inc.",GroupM
+Facebook,GroupM
 Clorox,IPG
-"Facebook, Inc.",Performics
+Facebook,Performics
 Adidas,IPG
 Adidas,DDB
 Coca-Cola,BBH
 Google,Performics
 L'Oreal,Havas
-"Facebook, Inc.",Havas
+Facebook,Havas
 L'Oreal,Digitas
 Nestle,Zimmerman
 Estee Lauder,MindShare
@@ -300,7 +300,7 @@ Henkel AG & Co KGaA,LPK
 Coca-Cola,Leo Burnett
 Walmart,Saatchi & Saatchi
 IBM,Havas
-"Facebook, Inc.",Jack Morton Worldwide
+Facebook,Jack Morton Worldwide
 Kellogg,Starcom
 Diageo,MediaCom
 Mondelez,Ketchum
@@ -316,7 +316,7 @@ Google,Dentsu
 Mondelez,Wieden & Kennedy
 Adidas,Cheil
 Mondelez,FCB
-"Facebook, Inc.",Omnicom
+Facebook,Omnicom
 Google,72andSunny
 Diageo,Ogilvy
 Del Monte,Havas
@@ -326,7 +326,7 @@ Kohl's,Performics
 Nike,Droga5
 Mondelez,DDB
 Coca-Cola,TBWA
-"Facebook, Inc.",DAS
+Facebook,DAS
 Hasbro,MediaCom
 Diageo,Grey
 Coca-Cola,Wunderman
@@ -334,11 +334,11 @@ Kellogg,J. Walter Thompson
 P&G,Arc
 Danone,WPP
 Diageo,72andSunny
-"Facebook, Inc.",360i
+Facebook,360i
 Coca-Cola,Shift
 Danone,Omnicom
-"Facebook, Inc.",DDB
-"Facebook, Inc.",Anomaly
+Facebook,DDB
+Facebook,Anomaly
 Walmart,VML
 Danone,TBWA
 H&M,MEC
@@ -361,7 +361,7 @@ Nike,BBDO
 Target,Mediabrands
 H&M,DDB
 Nike,Publicis
-"Facebook, Inc.",VaynerMedia
+Facebook,VaynerMedia
 Walmart,Wunderman
 Coca-Cola,Essence
 Mondelez,Wavemaker
@@ -370,17 +370,17 @@ Mondelez,360i
 Nike,Saatchi & Saatchi
 Hasbro,DDB
 Walmart,DDB
-"Facebook, Inc.",MediaCom
+Facebook,MediaCom
 Lenovo,Publicis
 Cargill,BBDO
 Walmart,GroupM
 Walmart,IPG
 Mondelez,GroupM
-"Facebook, Inc.",Cohn & Wolfe
+Facebook,Cohn & Wolfe
 Adidas,TBWA
 Chobani,Horizon
 Unilever,Wunderman
-"Facebook, Inc.",Octagon
+Facebook,Octagon
 Nestle,GroupM
 Mondelez,VaynerMedia
 Coca-Cola,Dentsu
@@ -393,8 +393,8 @@ P&G,UM
 McDonalds,Saatchi & Saatchi
 Adidas,Havas
 Unilever,Saatchi & Saatchi
-"Facebook, Inc.",Adaptly
-"Facebook, Inc.",Huge
+Facebook,Adaptly
+Facebook,Huge
 Nike,FCB
 Nestle,VML
 Unilever,MEC
@@ -407,9 +407,9 @@ Cargill,Omnicom
 Intel,Razorfish
 P&G,TBWA
 Target,Ogilvy
-"Facebook, Inc.",LIPPINCOTT
+Facebook,LIPPINCOTT
 Estee Lauder,OMD
-"Facebook, Inc.",Wunderman
+Facebook,Wunderman
 Nike,Razorfish
 Nike,RPA
 Clorox,WPP
@@ -426,7 +426,7 @@ Kellogg,BBH
 Intel,Havas
 P&G,Wieden & Kennedy
 Kellogg,VML
-"Facebook, Inc.",Ogilvy
+Facebook,Ogilvy
 Estee Lauder,WPP
 Nestle,Saatchi & Saatchi
 L'Oreal,Publicis
@@ -447,21 +447,21 @@ Adidas,BBDO
 McDonalds,Digitas
 Coca-Cola,Razorfish
 Target,Essence
-"Facebook, Inc.",BBH
+Facebook,BBH
 Mondelez,AKQA
 AT&T,Saatchi & Saatchi
 Del Monte,FCB
-"Facebook, Inc.",BBDO
-"Facebook, Inc.",Cramer-Krasselt
+Facebook,BBDO
+Facebook,Cramer-Krasselt
 Coca-Cola,Horizon
 Cargill,Ogilvy
 Diageo,Essence
 Hershey,IPG
 P&G,Critical Mass
 Coca-Cola,Saatchi & Saatchi
-"Facebook, Inc.",Isobar
-"Facebook, Inc.",Fleishman Hillard
-"Facebook, Inc.",MullenLowe
+Facebook,Isobar
+Facebook,Fleishman Hillard
+Facebook,MullenLowe
 Miller Coors,Venables Bell & Partners
 Coca-Cola,VML
 Unilever,BBDO
@@ -503,7 +503,7 @@ Walmart,MAGNA
 Adidas,Hakuhodo
 P&G,J. Walter Thompson
 Unilever,J. Walter Thompson
-"Facebook, Inc.",Droga5
+Facebook,Droga5
 H&M,MediaCom
 AT&T,Digitas
 Kellogg,Wunderman
@@ -515,7 +515,7 @@ Adidas,UM
 Microsoft,BBDO
 Energizer,BBDO
 P&G,Kantar
-"Facebook, Inc.",GSD&M
+Facebook,GSD&M
 Del Monte,UM
 P&G,Essence
 Google,R/GA
@@ -535,7 +535,7 @@ Coca-Cola,J. Walter Thompson
 Henkel AG & Co KGaA,UM
 Google,Digitas
 McDonalds,Omnicom
-"Facebook, Inc.",MEC
+Facebook,MEC
 H&M,Critical Mass
 Google,DDB
 Kohl's,Anomaly
@@ -554,7 +554,7 @@ Cargill,Cheil
 Adidas,R/GA
 Adidas,VML
 Microsoft,Grey
-"Facebook, Inc.",Laundry Service
+Facebook,Laundry Service
 Coca-Cola,Anomaly
 Adidas,Ogilvy
 P&G,OMD

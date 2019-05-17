@@ -1,6 +1,6 @@
-Industry L1,Industry L2
-PD,PD Con Goods & Srvcs
-CMT,CMT HT
-CMT,CMT C&M
-PD,PD Retail
-CMT,CMT SW&P
+Industry_L1,Industry_L2
+PD,CGS
+CMT,HT
+CMT,C&M
+PD,Retail
+CMT,SW&P
