@@ -1,9 +1,9 @@
-Industry_L1,Industry_L2
+Pharma_L1,Discovered_Entity_L2
 Pfizer,MedVantx
-"Petrone Group 
+"Petrone Group
 ","STMPHARMAPRO Srl
 (Subsidiary)"
-"Sanofi Pasteur SA 
+"Sanofi Pasteur SA
 ","Rappi
 "
 AstraZeneca,Express Scripts
@@ -19,11 +19,9 @@ PillPack,Amazon
 MedAvail,Express Scripts
 DeliverCare Rx,DeliverCare Rx
 DeliverCare Rx,Equiscript
-"Sanofi Pasteur SA 
-","Rappi
+Sanofi Pasteur SA,"Rappi
 "
-"Sanofi Pasteur SA 
-","Rappi
+Sanofi Pasteur SA,"Rappi
 "
 Eli Lilly,Blink Health
 Astrazeneca,Eagle Pharmacy
